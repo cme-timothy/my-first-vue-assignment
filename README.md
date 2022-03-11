@@ -1,7 +1,32 @@
-# Vue 3 + Vite
+# My first vue assignment
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a simple to do list built for my first vue assignment. This project was built with the framework [Vue](https://vuejs.org/) and used [Vite](https://vitejs.dev/) as its starting template.
 
-## Recommended IDE Setup
+## Pre-requisites
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+Before you proceed to install, you need to have the following tools installed:
+- [Node](https://nodejs.org/en/)
+
+## How to install
+
+In order to install you need to run:
+
+```
+npm install
+```
+
+## How to run project locally
+
+To setup a local development server, run:
+
+```
+npm run dev
+```
+
+## How to build a production bundle
+
+To build the webpage for production, run:
+
+```
+npm run build
+```
